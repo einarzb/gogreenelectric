@@ -1,0 +1,19 @@
+/*.navbar{background-color:#67bc12;}
+.navbar-inverse .navbar-brand {
+  color:#fff;
+}
+
+li{color:#fff;}*/
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+  .bg-4{
+    height:70px;
+    background-color: #000;
+    color: #fff;
+    padding-top: 20px;
+  }
